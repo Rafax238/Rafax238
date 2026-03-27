@@ -1,19 +1,19 @@
-<h2 align="left">Hi 👋, I'm Rafael</h2>
-<h4 align="left">💻 Web Developer from Portugal</h4>
+<h2 align="left">Olá 👋, sou o Rafael</h2>
+<h4 align="left">💻 Programador Web de Portugal</h4>
 
 ---
 
 <img align="right" height="160" src="https://media.discordapp.net/attachments/859024106372726785/1487201072073281626/IMG_7961.jpg" />
 
-### 🚀 About Me
+### 🚀 Sobre Mim
 
-* 🔭 Working on **personal & freelance projects**
-* 🌱 Learning **backend & scalable systems**
-* ⚡ Focused on **clean and modern web development**
+* 🔭 A trabalhar em **projetos pessoais e freelance**
+* 🌱 A aprender mais sobre **backend e sistemas escaláveis**
+* ⚡ Focado em criar **aplicações modernas, limpas e performantes**
 
 ---
 
-### 🎧 Now Playing (Spotify)
+### 🎧 A ouvir (Spotify)
 
 <p align="left">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mjfuov4v4figddobirktpunra4" />
@@ -21,17 +21,17 @@
 
 ---
 
-### 📸 About Me (Photos)
+### 📸 Sobre Mim (Fotos)
 
 <p align="left">
-  <img src="LINK_DA_TUA_FOTO_1" height="120"/>
-  <img src="LINK_DA_TUA_FOTO_2" height="120"/>
-  <img src="LINK_DA_TUA_FOTO_3" height="120"/>
+  <img src="(https://media.discordapp.net/attachments/859024106372726785/1487205578437558522/image.png?ex=69c84ba0&is=69c6fa20&hm=eec206bc2bf4b547825da7022b1847c38902eb19148411018b19bc7410e9a992&=&format=webp&quality=lossless&width=1768&height=839)" height="120"/>
+  <img src="https://media.discordapp.net/attachments/859024106372726785/1487205578857250937/image.png?ex=69c84ba0&is=69c6fa20&hm=45acebc7fc5bf9d68a88fec8285424e2d4bd392ae4c2a2f194ad37899bfa39f7&=&format=webp&quality=lossless&width=1768&height=843" height="120"/>
+  <img src="(https://media.discordapp.net/attachments/859024106372726785/1487205579255713812/image.png?ex=69c84ba1&is=69c6fa21&hm=f62a26545cc32c7627a04b9acfd1e30b82fa73daca69f0b6056e3f1031ab0cff&=&format=webp&quality=lossless&width=1768&height=843)" height="120"/>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,mongodb,mysql,php,git,vscode" />
@@ -39,7 +39,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Rafax238&show_icons=true&theme=tokyonight&hide_border=true" height="140" />
@@ -48,7 +48,7 @@
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Liga-te a mim
 
 <p align="left">
   <a href="https://instagram.com/SEU_LINK">
