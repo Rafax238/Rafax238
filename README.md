@@ -13,31 +13,29 @@
 
 ---
 
+### 🎧 Now Playing (Spotify)
+
+<p align="left">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_SPOTIFY_ID&cover_image=true&theme=default" />
+</p>
+
+---
+
+### 📸 About Me (Photos)
+
+<p align="left">
+  <img src="LINK_DA_TUA_FOTO_1" height="120"/>
+  <img src="LINK_DA_TUA_FOTO_2" height="120"/>
+  <img src="LINK_DA_TUA_FOTO_3" height="120"/>
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,mongodb,mysql,php,git,vscode" />
+</p>
 
 ---
 
@@ -52,14 +50,14 @@
 
 ### 🌐 Connect with me
 
-<div align="left">
+<p align="left">
   <a href="https://instagram.com/SEU_LINK">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://discord.gg/SEU_LINK">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
@@ -71,10 +69,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rafax238.Rafax238" />
 </div>
