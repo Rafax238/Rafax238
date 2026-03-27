@@ -57,12 +57,12 @@
 ### 🌐 Liga-te a mim
 
 <p align="left">
-  <a href="https://instagram.com/SEU_LINK">
+  <a href="https://instagram.com/itss.rafa17/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discord.gg/SEU_LINK">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  <p align="left">
+  <img src="https://img.shields.io/badge/Discord-Rⱥfͥⱥ%20(%40ulgorafax)-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </p>
 </p>
 
 ---
