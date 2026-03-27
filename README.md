@@ -22,7 +22,7 @@
 ---
 
 
-### 📸 Sobre Mim (Fotos)
+### 📸 Meu Projeto Final (Fotos)
 
 <p align="left">
   <img src="https://cdn.discordapp.com/attachments/859024106372726785/1487205578437558522/image.png?ex=69c84ba0&is=69c6fa20&hm=eec206bc2bf4b547825da7022b1847c38902eb19148411018b19bc7410e9a992&" height="120"/>
@@ -60,16 +60,11 @@
   <a href="https://instagram.com/itss.rafa17/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <p align="left">
-  <img src="https://img.shields.io/badge/Discord-Rⱥfͥⱥ%20(%40ulgorafax)-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </p>
 </p>
 
 ---
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Rafax238/Rafax238/output/snake.svg" alt="Snake animation" />
 
 ---
 
