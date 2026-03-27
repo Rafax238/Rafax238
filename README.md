@@ -21,12 +21,14 @@
 
 ---
 
+
 ### 📸 Sobre Mim (Fotos)
 
 <p align="left">
-  <img src="(https://media.discordapp.net/attachments/859024106372726785/1487205578437558522/image.png?ex=69c84ba0&is=69c6fa20&hm=eec206bc2bf4b547825da7022b1847c38902eb19148411018b19bc7410e9a992&=&format=webp&quality=lossless&width=1768&height=839)" height="120"/>
+  <img src="https://media.discordapp.net/attachments/859024106372726785/1487205578437558522/image.png?ex=69c84ba0&is=69c6fa20&hm=eec206bc2bf4b547825da7022b1847c38902eb19148411018b19bc7410e9a992&=&format=webp&quality=lossless&width=1768&height=839" height="120"/>
   <img src="https://media.discordapp.net/attachments/859024106372726785/1487205578857250937/image.png?ex=69c84ba0&is=69c6fa20&hm=45acebc7fc5bf9d68a88fec8285424e2d4bd392ae4c2a2f194ad37899bfa39f7&=&format=webp&quality=lossless&width=1768&height=843" height="120"/>
-  <img src="(https://media.discordapp.net/attachments/859024106372726785/1487205579255713812/image.png?ex=69c84ba1&is=69c6fa21&hm=f62a26545cc32c7627a04b9acfd1e30b82fa73daca69f0b6056e3f1031ab0cff&=&format=webp&quality=lossless&width=1768&height=843)" height="120"/>
+  <img src="https://media.discordapp.net/attachments/859024106372726785/1487205579255713812/image.png?ex=69c84ba1&is=69c6fa21&hm=f62a26545cc32c7627a04b9acfd1e30b82fa73daca69f0b6056e3f1031ab0cff&=&format=webp&quality=lossless&width=1768&height=843" height="120"/>
+  <img src="(https://media.discordapp.net/attachments/859024106372726785/1487205579662295080/image.png?ex=69c84ba1&is=69c6fa21&hm=741d9830dfba018d4696b70f1c15e3e960f6dcda7fa9fb3575a0fb1b345566f8&=&format=webp&quality=lossless&width=1768&height=839)" height="120"/>
 </p>
 
 ---
