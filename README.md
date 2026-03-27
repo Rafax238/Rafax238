@@ -16,7 +16,7 @@
 ### 🎧 Now Playing (Spotify)
 
 <p align="left">
-  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mjfuov4v4figddobirktpunra4&width={width})" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mjfuov4v4figddobirktpunra4" />
 </p>
 
 ---
