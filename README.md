@@ -28,19 +28,28 @@
 
 ---
 
-<table>
+### 💻 Destaques do Portefólio (Galeria de Fotos)
+
+Aqui estão capturas de ecrã visuais dos meus projetos recentes.
+
+<table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4>🚀 Nome do Projeto 1</h4>
-      <img src="LINK_DA_IMAGEM_AQUI" width="100%">
-      <p>Aplicaçåo desenvolvida com <b>React</b> e <b>Firebase</b> para gestão de tarefas.</p>
-      <a href="URL_DO_GITHUB">🔗 Repositório</a>
+      <h4>🚀 Nome do Teu Primeiro Projeto</h4>
+      <img src="LINK_DIRETO_PARA_A_FOTO_DO_PROJETO_1.jpg" alt="Captura de ecrã do Projeto 1" width="100%" style="border-radius: 8px; border: 1px solid #ddd;box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+      <br>
+      <p align="center">
+        <i>Breve descrição visual do que esta imagem mostra (ex: "Página Inicial e Dashboard Principal").</i>
+      </p>
     </td>
+    
     <td width="50%" valign="top">
-      <h4>🛠️ Nome do Projeto 2</h4>
-      <img src="LINK_DA_IMAGEM_AQUI" width="100%">
-      <p>API REST construída em <b>Node.js</b> com autenticação JWT e MySQL.</p>
-      <a href="URL_DO_GITHUB">🔗 Repositório</a>
+      <h4>🛠️ Nome do Teu Segundo Projeto</h4>
+      <img src="LINK_DIRETO_PARA_A_FOTO_DO_PROJETO_2.jpg" alt="Captura de ecrã do Projeto 2" width="100%" style="border-radius: 8px; border: 1px solid #ddd;box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+      <br>
+      <p align="center">
+        <i>Breve descrição visual (ex: "Interface de Utilizador e Formulário de Registo").</i>
+      </p>
     </td>
   </tr>
 </table>
