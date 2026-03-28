@@ -28,14 +28,22 @@
 
 ---
 
-### 📸 Projeto Final (Destaque)
-
-> **Nota:** Uma breve descrição do que foi este projeto ajudaria a dar contexto a quem visita!
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.discordapp.com/attachments/859024106372726785/1487205578437558522/image.png" width="180"> | <img src="https://cdn.discordapp.com/attachments/859024106372726785/1487205578857250937/image.png" width="180"> | <img src="https://cdn.discordapp.com/attachments/859024106372726785/1487207336505249793/Captura_de_ecra_2026-03-27_214720.png" width="180"> | <img src="https://cdn.discordapp.com/attachments/859024106372726785/1487207337197306038/Captura_de_ecra_2026-03-27_214911.png" width="180"> |
-| <img src="https://cdn.discordapp.com/attachments/859024106372726785/1487207336874610920/Captura_de_ecra_2026-03-27_214809.png" width="180"> | <img src="https://cdn.discordapp.com/attachments/859024106372726785/1487206318073839656/image.png" width="180"> | <img src="https://cdn.discordapp.com/attachments/859024106372726785/1487205579255713812/image.png" width="180"> | <img src="https://cdn.discordapp.com/attachments/859024106372726785/1487205579662295080/image.png" width="180"> |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Nome do Projeto 1</h4>
+      <img src="LINK_DA_IMAGEM_AQUI" width="100%">
+      <p>Aplicaçåo desenvolvida com <b>React</b> e <b>Firebase</b> para gestão de tarefas.</p>
+      <a href="URL_DO_GITHUB">🔗 Repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛠️ Nome do Projeto 2</h4>
+      <img src="LINK_DA_IMAGEM_AQUI" width="100%">
+      <p>API REST construída em <b>Node.js</b> com autenticação JWT e MySQL.</p>
+      <a href="URL_DO_GITHUB">🔗 Repositório</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
