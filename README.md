@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>💻 Programador Web de Portugal</h3>
-  <p>Focado em criar soluções modernas, limpas e de alta performance.</p>
+  <p>Focado em criar soluções modernas, elegantes e de alta performance.</p>
 </div>
 
 ---
@@ -13,10 +13,10 @@
 
 <img align="right" height="170" src="https://media.discordapp.net/attachments/859024106372726785/1487201072073281626/IMG_7961.jpg" style="border-radius: 10px;" />
 
-* 🔭 **Atualmente:** Dedicado a projetos freelance e ao desenvolvimento de ferramentas pessoais.
-* 🌱 **Aprendizagem:** A aprofundar conhecimentos em **Backend Architecture** e sistemas escaláveis.
-* ⚡ **Filosofia:** Acredito que o código deve ser tão elegante quanto funcional.
-* 💬 **Diz olá:** Especialista em transformar ideias em interfaces interativas.
+- 🔭 **Atualmente:** Dedicado a projetos freelance e ao desenvolvimento de ferramentas pessoais.  
+- 🌱 **Aprendizagem:** A aprofundar conhecimentos em **arquitetura backend** e sistemas escaláveis.  
+- ⚡ **Filosofia:** Acredito que o código deve ser tão elegante quanto funcional.  
+- 💬 **Sobre mim:** Especialista em transformar ideias em interfaces interativas.  
 
 ---
 
@@ -28,29 +28,26 @@
 
 ---
 
-### 💻 Destaques do Portefólio (Galeria de Fotos)
+### 💻 Destaques do Portefólio
 
-Aqui estão capturas de ecrã visuais dos meus projetos recentes.
+Aqui estão algumas capturas de ecrã de projetos recentes.
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
       <h4>🚀 Nome do Teu Primeiro Projeto</h4>
-      <img src="LINK_DIRETO_PARA_A_FOTO_DO_PROJETO_1.jpg" alt="Captura de ecrã do Projeto 1" width="100%" style="border-radius: 8px; border: 1px solid #ddd;box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
-      <br>
+      <img src="https://media.discordapp.net/attachments/1487605066327130332/1487605066725855372/Logo.png?ex=69c9bfae&is=69c86e2e&hm=4d8029cbfabcd2d130d61ae9dfffb20156e44e38771fa1a68cee962130e2827c&=&format=webp&quality=lossless&width=960&height=960" alt="Captura de ecrã do Projeto 1" width="100%" style="border-radius: 8px; border: 1px solid #ddd; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+      <br><br>
       <p align="center">
-        <i>Breve descrição visual do que esta imagem mostra (ex: "Página Inicial e Dashboard Principal").</i>
+        <a href="https://github.com/Rafax238/PAP-FOTOS">
+          <img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <i>Breve descrição do projeto ou do que esta imagem mostra.</i>
       </p>
     </td>
     
-    <td width="50%" valign="top">
-      <h4>🛠️ Nome do Teu Segundo Projeto</h4>
-      <img src="LINK_DIRETO_PARA_A_FOTO_DO_PROJETO_2.jpg" alt="Captura de ecrã do Projeto 2" width="100%" style="border-radius: 8px; border: 1px solid #ddd;box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
-      <br>
-      <p align="center">
-        <i>Breve descrição visual (ex: "Interface de Utilizador e Formulário de Registo").</i>
-      </p>
-    </td>
   </tr>
 </table>
 
