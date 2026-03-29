@@ -54,13 +54,13 @@
     <td width="50%" valign="top">
       <h4>🌍 Cidadão+ — Gestão Urbana Inteligente</h4>
       <p>Plataforma para facilitar a comunicação entre cidadãos e autarquias, otimizando a resolução de problemas urbanos.</p>
-      <p><b>Techs:</b> Node.js, React, MySQL</p>
+      <p><b>Techs:</b> HTML, CSS, PHP, JS, MySQL</p>
       <a href="https://github.com/Rafax238/PAP-FOTOS">
         <img src="https://img.shields.io/badge/Ver_Projeto-0047AB?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%" align="center">
-      <img src="https://media.discordapp.net/attachments/1487605066327130332/1487605066725855372/Logo.png" width="80%" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
+      <img src="https://cdn.discordapp.com/attachments/1487605066327130332/1487605066725855372/Logo.png?ex=69c9bfae&is=69c86e2e&hm=4d8029cbfabcd2d130d61ae9dfffb20156e44e38771fa1a68cee962130e2827c&" width="80%" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
     </td>
   </tr>
 </table>
