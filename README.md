@@ -36,7 +36,7 @@ Aqui estão algumas capturas de ecrã de projetos recentes.
   <tr>
     <td width="50%" valign="top">
       <h4>🚀 Nome do Teu Primeiro Projeto</h4>
-      <img src="https://media.discordapp.net/attachments/1487605066327130332/1487605066725855372/Logo.png?ex=69c9bfae&is=69c86e2e&hm=4d8029cbfabcd2d130d61ae9dfffb20156e44e38771fa1a68cee962130e2827c&=&format=webp&quality=lossless&width=960&height=960" alt="Captura de ecrã do Projeto 1" width="100%" style="border-radius: 8px; border: 1px solid #ddd; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+      <img src="https://media.discordapp.net/attachments/1487605066327130332/1487605066725855372/Logo.png?ex=69c9bfae&is=69c86e2e&hm=4d8029cbfabcd2d130d61ae9dfffb20156e44e38771fa1a68cee962130e2827c&=&format=webp&quality=lossless&width=960&height=960" alt="Captura de ecrã do Projeto 1" width="25%" style="border-radius: 8px; border: 1px solid #ddd; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
       <br><br>
       <p align="center">
         <a href="https://github.com/Rafax238/PAP-FOTOS">
