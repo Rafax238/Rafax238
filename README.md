@@ -31,10 +31,10 @@
 | :--- | :--- |
 | **Frontend** | `React`, `TypeScript`, `HTML5`, `CSS3`, `Tailwind` |
 | **Backend** | `Node.js`, `PHP`, `MySQL`, `MongoDB` |
-| **Ferramentas** | `Git`, `VS Code`, `Postman`, `Docker` |
+| **Ferramentas** | `Git`, `VS Code`|
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,mongodb,mysql,php,git,vscode,tailwind,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,mongodb,mysql,php,git,vscode" />
 </div>
 
 ---
