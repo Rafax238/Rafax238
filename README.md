@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=777BB4&height=130&section=header&text=RafaDev%20👨‍💻&fontSize=45&animation=slow&desc=Desenvolvedor%20Fullstack%20%7C%20PAP%202026&descSize=23&descAlignY=70" alt="RafaDev Banner Profissional Fullstack">
+  <img src="https://cdn.discordapp.com/attachments/859024106372726785/1487630715595128894/dasdas.png?ex=69c9d791&is=69c88611&hm=f9e5ee82dfd62288c349d8a9f9c37c205c825b040b7ef6d487ef6f56a2c08b12&" alt="Banner Rafa" width="100%">
 </div>
 
 <div align="center">
