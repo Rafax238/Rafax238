@@ -3,63 +3,71 @@
 </div>
 
 <div align="center">
-  <h3>💻 Programador Web de Portugal</h3>
-  <p>Focado em criar soluções modernas, elegantes e de alta performance.</p>
+  <h3>🚀 Web Developer | Full-Stack Enthusiast</h3>
+  <p>De Portugal para o mundo, focado em criar soluções modernas, elegantes e de alta performance.</p>
+  
+  <p>
+    <img src="https://img.shields.io/github/followers/Rafax238?label=Followers&style=flat-square&color=0047AB">
+    <img src="https://img.shields.io/github/stars/Rafax238?label=Stars&style=flat-square&color=0047AB">
+  </p>
 </div>
 
 ---
 
 ### 🚀 Sobre Mim
 
-<img align="right" height="170" src="https://media.discordapp.net/attachments/859024106372726785/1487201072073281626/IMG_7961.jpg" style="border-radius: 10px;" />
+<img align="right" height="180" src="https://media.discordapp.net/attachments/859024106372726785/1487201072073281626/IMG_7961.jpg" style="border-radius: 15px; border: 2px solid #0047AB;" />
 
-- 🔭 **Atualmente:** Dedicado a projetos freelance e ao desenvolvimento de ferramentas pessoais.
-- 🌱 **Aprendizagem:** A aprofundar conhecimentos em **arquitetura backend** e sistemas escaláveis.
-- ⚡ **Filosofia:** Acredito que o código deve ser tão elegante quanto funcional.
-- 💬 **Sobre mim:** Especialista em transformar ideias em interfaces interativas.
+- 🔭 **Foco Atual:** Projetos freelance e arquitetura de sistemas escaláveis.
+- 🌱 **Evolução Contínua:** A aprofundar conhecimentos em **Clean Architecture** e **DevOps**.
+- ⚡ **Filosofia:** O código deve ser tão elegante por dentro quanto a interface é por fora.
+- 💬 **Expertise:** Transformar problemas complexos em interfaces intuitivas e APIs robustas.
 
 ---
 
 ### 🛠️ Tech Stack
 
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | `React`, `TypeScript`, `HTML5`, `CSS3`, `Tailwind` |
+| **Backend** | `Node.js`, `PHP`, `MySQL`, `MongoDB` |
+| **Ferramentas** | `Git`, `VS Code`, `Postman`, `Docker` |
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,mongodb,mysql,php,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,mongodb,mysql,php,git,vscode,tailwind,docker" />
 </div>
 
 ---
 
-### 💻 Destaques do Portefólio
+### 📊 GitHub Stats
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rafax238&show_icons=true&theme=cobalt&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafax238&layout=compact&theme=cobalt&hide_border=true" />
+</div>
 
-Aqui estão algumas capturas de ecrã de projetos recentes.
+---
+
+### 💻 Projetos em Destaque
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
       <h4>🌍 Cidadão+ — Gestão Urbana Inteligente</h4>
-      <p align="center">
-  <img src="https://media.discordapp.net/attachments/1487605066327130332/1487605066725855372/Logo.png?ex=69c9bfae&is=69c86e2e&hm=4d8029cbfabcd2d130d61ae9dfffb20156e44e38771fa1a68cee962130e2827c&=&format=webp&quality=lossless"
-       alt="Captura de ecrã do Projeto 1"
-       width="50%"
-       style="border-radius: 12px; border: 1px solid #ddd; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
-</p>
-      <br><br>
-      <p align="center">
-        <a href="https://github.com/Rafax238/PAP-FOTOS">
-          <img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <i>Breve descrição do projeto e fotos do projeto no link a cima.</i>
-      </p>
+      <p>Plataforma para facilitar a comunicação entre cidadãos e autarquias, otimizando a resolução de problemas urbanos.</p>
+      <p><b>Techs:</b> Node.js, React, MySQL</p>
+      <a href="https://github.com/Rafax238/PAP-FOTOS">
+        <img src="https://img.shields.io/badge/Ver_Projeto-0047AB?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
-    
+    <td width="50%" align="center">
+      <img src="https://media.discordapp.net/attachments/1487605066327130332/1487605066725855372/Logo.png" width="80%" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
+    </td>
   </tr>
 </table>
 
 ---
 
 ### 🎧 No meu Spotify agora
-
 <div align="left">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mjfuov4v4figddobirktpunra4" />
 </div>
@@ -68,11 +76,11 @@ Aqui estão algumas capturas de ecrã de projetos recentes.
 
 ### 🌐 Vamos conversar?
 
-<p align="left">
-  <a href="https://instagram.com/itss.rafa17/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+<div align="left">
+  <a href="https://instagram.com/itss.rafa17/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
+</div>
 
 <br />
 
