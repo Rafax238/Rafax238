@@ -39,14 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rafax238&show_icons=true&theme=cobalt&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafax238&layout=compact&theme=cobalt&hide_border=true" />
-</div>
-
----
-
 ### 💻 Projetos em Destaque
 
 <table border="0">
