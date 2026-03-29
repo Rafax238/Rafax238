@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=Olá,%20sou%20o%20Rafael%20👋&fontSize=45&fontAlignY=40&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=777BB4&height=120&section=header&text=Rafael%20👨‍💻&fontSize=40&animation=fadeIn&desc=Desenvolvedor%20Fullstack%20%7C%20PHP%20&%20MySQL%20%7C%20PAP%202026&descSize=20&descAlignY=65" alt="Rafael Banner Profissional PAP 2026">
 </div>
 
 <div align="center">
