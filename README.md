@@ -29,7 +29,7 @@
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Frontend** | `React`, `TypeScript`, `HTML5`, `CSS3`, `Tailwind` |
+| **Frontend** | `React`, `TypeScript`, `HTML5`|
 | **Backend** | `Node.js`, `PHP`, `MySQL`, `MongoDB` |
 | **Ferramentas** | `Git`, `VS Code`|
 
