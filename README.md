@@ -72,9 +72,6 @@ Aqui estão algumas capturas de ecrã de projetos recentes.
   <a href="https://instagram.com/itss.rafa17/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:teu-email@aqui.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 <br />
