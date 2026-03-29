@@ -49,7 +49,7 @@ Aqui estão algumas capturas de ecrã de projetos recentes.
         </a>
       </p>
       <p align="center">
-        <i>Breve descrição do projeto ou do que esta imagem mostra.</i>
+        <i>Breve descrição do projeto e fotos do projeto no link a cima.</i>
       </p>
     </td>
     
