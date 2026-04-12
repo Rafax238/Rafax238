@@ -20,7 +20,7 @@
 
 ### 📑 Sobre Mim
 
-<img align="right" height="180" src="./assets/image/logo-pap.png" style="border-radius: 20px; border: 3px solid #0047AB; box-shadow: 10px 10px 20px rgba(0,0,0,0.2);" />
+<img align="right" height="180" src="./assets/image/profile.png" style="border-radius: 20px; border: 3px solid #0047AB; box-shadow: 10px 10px 20px rgba(0,0,0,0.2);" />
 
 - 🌍 **Localização:** Portugal (Disponível para projetos globais).
 - 🔭 **Projeto Atual:** Elevando o padrão de gestão urbana com o **Cidadão+**.
