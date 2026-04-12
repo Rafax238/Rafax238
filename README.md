@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/859024106372726785/1487630715595128894/dasdas.png?ex=69c9d791&is=69c88611&hm=f9e5ee82dfd62288c349d8a9f9c37c205c825b040b7ef6d487ef6f56a2c08b12&" alt="Banner Rafa" width="100%">
+  <img src="./assets/image/banner.png" alt="Banner Rafa" width="100%">
 </div>
 
 <div align="center">
