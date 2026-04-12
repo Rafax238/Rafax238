@@ -16,7 +16,7 @@
 
 ### 🚀 Sobre Mim
 
-<img align="right" height="180" src="./assets/image/logo.png" style="border-radius: 15px; border: 2px solid #0047AB;" />
+<img align="right" height="180" src="./assets/image/logo-pap.png" style="border-radius: 15px; border: 2px solid #0047AB;" />
 - 🔭 **Foco Atual:** Projetos freelance e arquitetura de sistemas escaláveis.
 - 🌱 **Evolução Contínua:** A aprofundar conhecimentos em **Clean Architecture** e **DevOps**.
 - ⚡ **Filosofia:** O código deve ser tão elegante por dentro quanto a interface é por fora.
