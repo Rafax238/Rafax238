@@ -6,7 +6,7 @@
   <h1> Olá, eu sou o Rafael</h1>
   
   <p align="center">
-    <b>Full-Stack Developer | Software Architect Enthusiast</b><br>
+    <b>Web Developer</b><br>
     <i>"Transformando lógica complexa em experiências digitais memoráveis."</i>
   </p>
 
@@ -26,11 +26,10 @@
   <p align="center" style="max-width: 700px;">
     📍 Baseado em <b>Portugal</b>, focado em arquiteturas escaláveis e código de alta performance.<br>
     Atualmente a elevar o padrão de gestão urbana com o projeto <b>Cidadão+</b>.<br>
-    A minha filosofia foca-se em <b>Clean Architecture</b> e na entrega de valor real ao utilizador final.
   </p>
 
   <p align="center">
-    🚀 <b>Especialidade:</b> PHP Moderno • Ecossistema React • Engenharia de Dados
+    🚀 <b>Especialidade:</b> PHP Moderno • Engenharia de Dados
   </p>
 </div>
 
