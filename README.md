@@ -95,26 +95,26 @@
   <br>
 
   <!-- Projeto 2: DataPulse / DevMetrics -->
-  <table border="0" width="100%">
-    <tr>
-      <td width="60%" valign="top" align="left">
-        <h4>⚡ DataPulse — Plataforma de Telemetria & Analytics</h4>
-        <p>Sistema de alta performance para monitorização e engenharia de dados em tempo real.</p>
-        <p>
-          <b>Core Features:</b><br>
-          🔄 Pipelines de Dados Assíncronos & Escaláveis<br>
-          📈 Relatórios Dinâmicos de Desempenho<br>
-          🐳 Contentorização com Docker e Microserviços
-        </p>
-        <a href="https://github.com/Rafax238">
-          <img src="https://img.shields.io/badge/Explorar_Projeto-0047AB?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </td>
-      <td width="40%" align="center">
-        <img src="./assets/image/logo-datapulse.png" width="200" style="border-radius: 15px; filter: drop-shadow(0px 10px 15px rgba(0,0,0,0.5));">
-      </td>
-    </tr>
-  </table>
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top" align="left">
+      <h4>💇‍♀️ Susete Cabeleireiro — Plataforma Web & Agendamentos</h4>
+      <p>Solução web <i>premium</i> moderna para digitalização de serviços de estética, gestão de clientes e marcações online.</p>
+      <p>
+        <b>Core Features:</b><br>
+        🏠 Catálogo de Serviços & Avaliações em Tempo Real<br>
+        🔐 Autenticação Segura & Área de Cliente<br>
+        ⚙️ Painel de Gestão Administrativa (Backoffice WIP)
+      </p>
+      <a href="https://github.com/Rafax238">
+        <img src="https://img.shields.io/badge/Explorar_Projeto-0047AB?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Projeto" />
+      </a>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="./fotos/home/home1.png" width="200" alt="Susete Cabeleireiro Preview" style="border-radius: 15px;">
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
