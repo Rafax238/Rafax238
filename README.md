@@ -77,7 +77,8 @@
   <!-- Projeto 1: Cidadão+ -->
   <table border="0" width="100%">
     <tr>
-      <td width="60%" valign="top" align="left">
+      <!-- Alterado de valign="top" para valign="middle" -->
+      <td width="60%" valign="middle" align="left">
         <h4>🌍 Cidadão+ — Gestão Urbana Inteligente</h4>
         <p>Uma solução <i>Smart City</i> disruptiva para fazer a ponte entre cidadãos e autarquias.</p>
         <p>
@@ -91,7 +92,9 @@
         </a>
       </td>
       <td width="40%" align="center" valign="middle">
-        <img src="./assets/image/logo-pap.png" alt="Logo Cidadão+" width="200" style="border-radius: 15px; filter: drop-shadow(0px 10px 15px rgba(0,0,0,0.5));">
+        <div style="width: 250px; height: 250px; display: flex; justify-content: center; align-items: center; overflow: hidden; border-radius: 15px; box-shadow: 0px 10px 15px rgba(0,0,0,0.5); background-color: #f0f0f0;">
+          <img src="./assets/image/logo-pap.png" alt="Logo Cidadão+" style="width: 100%; height: 100%; object-fit: contain;">
+        </div>
       </td>
     </tr>
   </table>
@@ -99,28 +102,29 @@
   <br><br>
 
   <!-- Projeto 2: Susete Cabeleireiro -->
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top" align="left">
-      <h4>💇‍♀️ Susete Cabeleireiro — Plataforma Web & Agendamentos</h4>
-      <p>Solução web <i>premium</i> moderna para a digitalização de serviços de estética, gestão de clientes e marcações online.</p>
-      <p>
-        <b>Funcionalidades Principais:</b><br>
-        🏠 Catálogo de Serviços & Avaliações em Tempo Real<br>
-        🔐 Autenticação Segura & Área de Cliente<br>
-        ⚙️ Painel de Gestão Administrativa (Backoffice WIP)
-      </p>
-      <a href="https://github.com/Rafax238" target="_blank">
-        <img src="https://img.shields.io/badge/Explorar_Projeto-0047AB?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Projeto Susete Cabeleireiro" />
-      </a>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <div style="overflow: hidden; border-radius: 12px; line-height: 0;">
-        <img src="./assets/image/home1.png" alt="Pré-visualização Susete Cabeleireiro" style="width: 135%; margin: -10% -17.5%; object-fit: cover;">
-      </div>
-    </td>
-  </tr>
-</table>
+  <table border="0" width="100%">
+    <tr>
+      <!-- Alterado de valign="top" para valign="middle" -->
+      <td width="60%" valign="middle" align="left">
+        <h4>💇‍♀️ Susete Cabeleireiro — Plataforma Web & Agendamentos</h4>
+        <p>Solução web <i>premium</i> moderna para a digitalização de serviços de estética, gestão de clientes e marcações online.</p>
+        <p>
+          <b>Funcionalidades Principais:</b><br>
+          🏠 Catálogo de Serviços & Avaliações em Tempo Real<br>
+          🔐 Autenticação Segura & Área de Cliente<br>
+          ⚙️ Painel de Gestão Administrativa (Backoffice WIP)
+        </p>
+        <a href="https://github.com/Rafax238" target="_blank">
+          <img src="https://img.shields.io/badge/Explorar_Projeto-0047AB?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Projeto Susete Cabeleireiro" />
+        </a>
+      </td>
+      <td width="40%" align="center" valign="middle">
+        <div style="width: 250px; height: 250px; display: flex; justify-content: center; align-items: center; overflow: hidden; border-radius: 15px; box-shadow: 0px 10px 15px rgba(0,0,0,0.5); background-color: #f0f0f0;">
+          <img src="./assets/image/home1.png" alt="Logo Susete" style="width: 100%; height: 100%; object-fit: contain;">
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
