@@ -111,7 +111,7 @@
       </a>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="./fotos/home/home1.png" width="200" alt="Susete Cabeleireiro Preview" style="border-radius: 15px;">
+      <img src="./assets/image/home1.png" width="200" alt="Susete Cabeleireiro Preview" style="border-radius: 15px;">
     </td>
   </tr>
 </table>
