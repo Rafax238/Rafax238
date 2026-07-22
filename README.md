@@ -45,20 +45,26 @@
   <table border="0">
     <tr>
       <td align="center"><b>Frontend</b></td>
-      <td align="center"><b>Backend</b></td>
-      <td align="center"><b>Ferramentas</b></td>
+      <td align="center"><b>Backend & DB</b></td>
+      <td align="center"><b>Ferramentas & ORMs</b></td>
     </tr>
     <tr>
       <td valign="top">
+        <img src="https://img.shields.io/badge/Next.js_(App_Router)-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /><br>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /><br>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /><br>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /><br>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       </td>
       <td valign="top">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /><br>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Next.js_API_Routes-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="API Routes" /><br>
+        <img src="https://img.shields.io/badge/Middleware-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Middleware" /><br>
+        <img src="https://img.shields.io/badge/Custom_Auth-0047AB?style=flat-square&logo=auth0&logoColor=white" alt="Custom Auth" /><br>
+        <img src="https://img.shields.io/badge/SQL / MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL / MySQL" />
       </td>
       <td valign="top">
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /><br>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /><br>
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
       </td>
@@ -66,7 +72,8 @@
   </table>
   
   <br>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,mongodb,mysql,php,git,docker,vscode&theme=dark" alt="Ícones de Tecnologias" />
+  <!-- Ícones gerais atualizados incluindo Next.js, Prisma, TS, etc. -->
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,php,mysql,prisma,git,docker,vscode&theme=dark" alt="Ícones de Tecnologias" />
 </div>
 
 ---
@@ -77,7 +84,6 @@
   <!-- Projeto 1: Cidadão+ -->
   <table border="0" width="100%">
     <tr>
-      <!-- Alterado de valign="top" para valign="middle" -->
       <td width="60%" valign="middle" align="left">
         <h4>🌍 Cidadão+ — Gestão Urbana Inteligente</h4>
         <p>Uma solução <i>Smart City</i> disruptiva para fazer a ponte entre cidadãos e autarquias.</p>
@@ -104,7 +110,6 @@
   <!-- Projeto 2: Susete Cabeleireiro -->
   <table border="0" width="100%">
     <tr>
-      <!-- Alterado de valign="top" para valign="middle" -->
       <td width="60%" valign="middle" align="left">
         <h4>💇‍♀️ Susete Cabeleireiro — Plataforma Web & Agendamentos</h4>
         <p>Solução web <i>premium</i> moderna para a digitalização de serviços de estética, gestão de clientes e marcações online.</p>
@@ -114,7 +119,7 @@
           🔐 Autenticação Segura & Área de Cliente<br>
           ⚙️ Painel de Gestão Administrativa (Backoffice WIP)
         </p>
-        <a href="https://github.com/Rafax238" target="_blank">
+        <a href="https://github.com/Rafax238/Susete" target="_blank">
           <img src="https://img.shields.io/badge/Explorar_Projeto-0047AB?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Projeto Susete Cabeleireiro" />
         </a>
       </td>
