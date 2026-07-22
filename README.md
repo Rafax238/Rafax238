@@ -47,8 +47,8 @@
     <tr>
       <td>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </td>
       <td>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><br>
@@ -67,9 +67,10 @@
 
 ---
 
-### 🚀 Estrela do Portfólio
+### 🚀 Estrelas do Portfólio
 
 <div align="center">
+  <!-- Projeto 1: Cidadão+ -->
   <table border="0" width="100%">
     <tr>
       <td width="60%" valign="top" align="left">
@@ -87,6 +88,30 @@
       </td>
       <td width="40%" align="center">
         <img src="./assets/image/logo-pap.png" width="200" style="border-radius: 15px; filter: drop-shadow(0px 10px 15px rgba(0,0,0,0.5));">
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- Projeto 2: DataPulse / DevMetrics -->
+  <table border="0" width="100%">
+    <tr>
+      <td width="60%" valign="top" align="left">
+        <h4>⚡ DataPulse — Plataforma de Telemetria & Analytics</h4>
+        <p>Sistema de alta performance para monitorização e engenharia de dados em tempo real.</p>
+        <p>
+          <b>Core Features:</b><br>
+          🔄 Pipelines de Dados Assíncronos & Escaláveis<br>
+          📈 Relatórios Dinâmicos de Desempenho<br>
+          🐳 Contentorização com Docker e Microserviços
+        </p>
+        <a href="https://github.com/Rafax238">
+          <img src="https://img.shields.io/badge/Explorar_Projeto-0047AB?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+      <td width="40%" align="center">
+        <img src="./assets/image/logo-datapulse.png" width="200" style="border-radius: 15px; filter: drop-shadow(0px 10px 15px rgba(0,0,0,0.5));">
       </td>
     </tr>
   </table>
