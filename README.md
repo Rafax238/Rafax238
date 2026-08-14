@@ -131,19 +131,6 @@
   </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-### 📸 PAP-FOTOS
-*Projeto de Aptidão Profissional que consolida a aprendizagem e aplicação prática das principais tecnologias web.*
-
-<a href="https://github.com/Rafax238/PAP-FOTOS">
-  <img src="https://img.shields.io/badge/Explorar_Projeto_PAP-0047AB?style=for-the-badge&logo=github&logoColor=white" alt="Explorar PAP-FOTOS" />
-</a>
-
-</div>
-
 ---
 
 ## 🎯 Foco Atual & Objetivos
