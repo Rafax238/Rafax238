@@ -69,21 +69,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  <a href="https://github.com/Rafax238">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rafax238&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas GitHub" />
-  </a>
-  <a href="https://github.com/Rafax238">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafax238&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens Mais Usadas" />
-  </a>
-
-</div>
-
----
-
 ## 🚀 Projetos em Destaque
 
 <table>
@@ -145,7 +130,7 @@
 
 <div align="center">
 
-  <a href="mailto:rafaorfao587@gmail.com" target="_blank">
+  <a href="mailto:rafadeveloper1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/itss.rafa17/" target="_blank">
